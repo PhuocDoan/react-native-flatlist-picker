@@ -1,6 +1,6 @@
 {
   "name": "react-native-flatlist-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flatlist picker extend modal picker for both android and ios",
   "main": "index.js",
   "scripts": {

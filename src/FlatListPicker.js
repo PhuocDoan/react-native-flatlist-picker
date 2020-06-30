@@ -12,8 +12,6 @@ class FlatListPicker extends Component {
   constructor(props) {
     super(props);
     this.state = {
-      selected: '0',
-      showDrop: false
     };
   }
 
