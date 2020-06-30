@@ -1,0 +1,38 @@
+{
+  "name": "react-native-flatlist-picker",
+  "version": "1.0.0",
+  "description": "Flatlist picker extend modal picker for both android and ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PhuocDoan/react-native-flatlist-picker.git"
+  },
+  "keywords": [
+    "picker",
+    "react",
+    "react-component",
+    "react-native",
+    "react-native-component",
+    "ios",
+    "android",
+    "modal",
+    "dropdown",
+    "picker",
+    "select",
+    "selector",
+    "option"
+  ],
+  "author": "PhuocDoan <doanhuuphuoc98@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react-native-vector-icons": "^6.6.0",
+    "prop-types": "^15.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/PhuocDoan/react-native-flatlist-picker/issues"
+  },
+  "homepage": "https://github.com/PhuocDoan/react-native-flatlist-picker#readme"
+}
