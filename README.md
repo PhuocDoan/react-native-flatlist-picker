@@ -17,9 +17,9 @@ You can use this component to create piker
 
 Support custom style, PickerItem, PickerCoponent, Animation
 
-See this Example for an example how to use this component.
+See this `Code below` for an example how to use this component.
 
-Deverlop from react-native-modal-dropdown
+Developed  from react-native-modal-dropdown
 
 ```jsx
 
